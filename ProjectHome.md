@@ -1,0 +1,1 @@
+smoothed particle hydrodynamics versions of the snapshots necessary to run the tests in the radiative transfer comparison project.
